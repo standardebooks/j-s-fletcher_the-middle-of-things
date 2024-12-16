@@ -33,27 +33,26 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The murder of a wealthy man raises questions about the identity of the young woman who is his ward.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Shortly after Richard Viner complains to his murder-mystery-loving aunt with whom he lives that such fiction couldn’t possibly “really represent life,” he himself finds a dead body in the lane behind his home. It turns out to be his neighbor, a man in his sixties, recently returned to England from Australia to care for the affairs of his ward, an accomplished young woman not long out of school. The police seem content to regard the crime as motivated by robbery, but Viner and his aunt, like the lawyers who get embroiled in the case, are convinced there is more to it than that.&lt;/p&gt;
+			&lt;p&gt;It seems clear that &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher&lt;/a&gt; took at least some inspiration for this work from the famous case of Sir Roger Tichborne, one of the most celebrated legal mysteries of late nineteenth century England. It involved a case of contested identity which, if proved, would bring an enormous inheritance and position of privilege.&lt;/p&gt;
+			&lt;p&gt;Fletcher puts his own spin on things and constructs yet another intriguing plot line, solved only with the help of his intrepid amateur sleuths.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9902</dc:source>
 		<dc:source>https://archive.org/details/middleofthings00fletuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-middle-of-things</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
 		<meta property="file-as" refines="#author">Fletcher, J. S.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Joseph Smith Fletcher</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._S._Fletcher</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n87819285</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n87819285</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Edward Steel Harper</dc:contributor>
+		<meta property="file-as" refines="#artist">Harper, Edward Steel</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>

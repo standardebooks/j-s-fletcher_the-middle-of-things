@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-s-fletcher/the-middle-of-things</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-12-23T21:28:26Z</dc:date>
+		<meta property="dcterms:modified">2024-12-23T21:28:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,14 +36,14 @@
 		<dc:description id="description">The murder of a wealthy man raises questions about the identity of the young woman who is his ward.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Shortly after Richard Viner complains to his murder-mystery-loving aunt with whom he lives that such fiction couldn’t possibly “really represent life,” he himself finds a dead body in the lane behind his home. It turns out to be his neighbor, a man in his sixties, recently returned to England from Australia to care for the affairs of his ward, an accomplished young woman not long out of school. The police seem content to regard the crime as motivated by robbery, but Viner and his aunt, like the lawyers who get embroiled in the case, are convinced there is more to it than that.&lt;/p&gt;
-			&lt;p&gt;It seems clear that &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher&lt;/a&gt; took at least some inspiration for this work from the famous case of Sir Roger Tichborne, one of the most celebrated legal mysteries of late nineteenth century England. It involved a case of contested identity which, if proved, would bring an enormous inheritance and position of privilege.&lt;/p&gt;
+			&lt;p&gt;It seems clear that &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher&lt;/a&gt; took at least some inspiration for this work from the famous Tichborne case, one of the most celebrated legal mysteries of late nineteenth century England. It involved a contested identity which, if proved, would bring an enormous inheritance and position of privilege.&lt;/p&gt;
 			&lt;p&gt;Fletcher puts his own spin on things and constructs yet another intriguing plot line, solved only with the help of his intrepid amateur sleuths.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9902</dc:source>
 		<dc:source>https://archive.org/details/middleofthings00fletuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">75211</meta>
+		<meta property="se:reading-ease.flesch">74.19</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-middle-of-things</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
 		<meta property="file-as" refines="#author">Fletcher, J. S.</meta>
@@ -73,6 +73,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
